@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "paopao7\\alipay\\": "src/paopao7/alipay"
+            "paopao7\\alipay\\": "src"
         }
     }
 }
